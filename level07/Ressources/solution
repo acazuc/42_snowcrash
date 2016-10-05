@@ -1,0 +1,3 @@
+On voit que il y a un printf de LOGNAME dans /bin/echo %s.
+Le resultat etant execve, on met LOGNAME=";getflag" ce qui va execute /bin/echo ;getflag
+Awesome
