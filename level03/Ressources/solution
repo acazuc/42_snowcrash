@@ -1,0 +1,4 @@
+On cat le bin, on voit qu'il execute /usr/bin/env echo Exploit me;
+On ajoute /tmp au path, on creer /tmp/echo (ne pas oublier le chmod +x)
+dans le /tmp/echo, on getflag
+awesome
