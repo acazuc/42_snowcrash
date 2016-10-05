@@ -1,0 +1,4 @@
+on cat /etc/passwd a la recherche du mdp
+on trouve un hash
+john a ete mentionne dans la video, donc c'est parti
+on run une vm linux, sudo apt-get install john, ok, john <lefichiercontenantlemdp>, ca retourne abcdefg, awesome

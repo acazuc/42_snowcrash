@@ -1,0 +1,6 @@
+find / -user flag00 2>&-
+on trouve /usr/sbin/john
+ca parait etre un hash yolo, probablement un rot
+http://www.mobilefish.com/services/rot13/rot13.php pour tester tous les rot
+on trouve a rot11 une chaine legit: nottoohardhere
+It Works !

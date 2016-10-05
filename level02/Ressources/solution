@@ -1,0 +1,5 @@
+On ouvre le .pcap avec wireshark
+analyse -> follow tcp stream
+On voit: Password: ft_wandr...NDRel.L0L
+On considere que les points sont des bs (parceque bon, apres avoir tout bruteforce, c'est la seule option qui m'es venu)
+Donc on a ft_waNDReL0L
