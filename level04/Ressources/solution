@@ -1,0 +1,4 @@
+on cat le fichier, il listen sur 127.0.0.1:4747
+on go sur 127.0.0.1:4747 via firefox, ca print deux lignes vides, c'est cool.
+Du coup, on voit qu'il execute un shell, on envois `getflag` en ?x=, ca fonctionne
+awesome
