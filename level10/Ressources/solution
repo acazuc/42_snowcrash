@@ -1,0 +1,4 @@
+on voit qu'il deny le fichier si on a pas les perms et pas par rapport au nom.
+Donc il utilise probablement access() (qui prend le uid de celui qui lance le prog)
+On creer un script shell qui creer un lien vers un fichier ou on a les droits, qui lance le bin en bg puis que wait un peu (tatonnement avce une boucle en shell) puis qui modifie le lien.
+Awesome
