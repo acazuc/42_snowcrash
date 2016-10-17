@@ -1,0 +1,7 @@
+Ok, le flag est deja present dans le bin (cat du bin)
+Par contre, il est crypte (parceque bon, faut pas deconner)
+On voit que le decrypt se trouve dans le bin aussi (un petit coup de gdb disas, ca mange pas de pain)
+Bon bah, du coup, osef du sid j'ai envie de dire.
+On le CP dans /tmp
+On creer un .so qui override getuid() pour return 4242
+c t dur
