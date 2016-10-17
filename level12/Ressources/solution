@@ -1,0 +1,3 @@
+on bypass le lowercase par un *. Il faut donc chercher /tmp/KEK.SH, on envois dont /*/KEK.SH
+Ce qui donne ";/*/KEK.SH;#
+On urlencode, on envoie et c'est plie
