@@ -1,0 +1,7 @@
+Il y a rien, donc on checrche un bin a crack
+Il se trouve que l'exo d'avant, c'etait "comment peter le truc"
+On se rend compte en faisant un cat de /bin/getflag que le flag encode du l'exo d'avant est aussi dans ce binaire
+Wow, maintenant on comprend que tous les flags se trouve dans ce binaire
+Du coup, on le dl, on hexedit pour je a 2014 et pour jump sur le getflag de 3014.
+C'est la misere, c'est mochew, c'est chiant a faire, mais ca fonctionne
+Awesome !
